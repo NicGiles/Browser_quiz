@@ -1,5 +1,6 @@
+
 Action Plan
-In order to test my understanding of full stack web applications, I will create a thrilling browser based quiz game!
+In order to test my understanding of full stack web applications, I will create a super-thrilling browser based quiz game!
 
 User Stories:
 
@@ -11,7 +12,7 @@ Plan: Have a range of multiple choice questions available to be answered. (Quest
 
 As a user,
 In order to ensure that the fun can continue,
-I would like to receive a series of randomised questions
+I would like to receive a series of randomised questions. (question_ramdomiser. Will eventually be linked to database)
 
 Plan: Have a system of randomising questions (held in a db) and delivering them to user.
 (Ruby app for selecting questions from DB and sending to User)
