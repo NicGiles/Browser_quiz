@@ -7,13 +7,14 @@ As a user,
 In order to have the maximum possible fun on the internet,
 I would like to answer multiple choice questions.
 
-Plan: Have a range of multiple choice questions available to be answered.
+Plan: Have a range of multiple choice questions available to be answered. (Questions Database)
 
 As a user,
 In order to ensure that the fun can continue,
 I would like to receive a series of randomised questions
 
 Plan: Have a system of randomising questions (held in a db) and delivering them to user.
+(Ruby app for selecting questions from DB and sending to User)
 
 As a user,
 In order to validate my genius,

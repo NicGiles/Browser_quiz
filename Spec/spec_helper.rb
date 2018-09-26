@@ -12,7 +12,7 @@ SimpleCov.formatter = SimpleCov::Formatter::MultiFormatter.new([
 SimpleCov.start
 
 ENV["RACK_ENV"] = "test"
-Capybara.app = xx
+Capybara.app = Browser_quiz
 
 RSpec.configure do |config|
   config.after(:suite) do
